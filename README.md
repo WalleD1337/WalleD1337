@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @WalleD1337
-- 👀 I’m interested in hacked clients and anarchy player
+
+
 
 <!---
 WalleD1337/WalleD1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
